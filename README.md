@@ -20,8 +20,7 @@ This project aims to predict employee attrition using a Support Vector Machine (
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd Employee_Attrition_using_SVM
+   git clone https://github.com/kaurrmanpreett/Employee_attrition_using_SVM.git
 
 2. Create a virtual environment and activate it:
    python -m venv venv
